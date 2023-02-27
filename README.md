@@ -1,1 +1,3 @@
-hello!
+### hello! ben here.
+
+i got really into programming during my PhD, where i used matlab to edit and then build psychoacoustic experiments, statistically analyse and visualise data. following my PhD, i did a postdoc in which i continued to use these skills regularly for similar tasks, and also building small software interfaces for non-programmer colleagues. during my postdoc i began using python much more regularly. i currently work as an analyst, where i get to use these technical skills on a daily basis.  i'm lucky to find programming very satisfying, rewarding and fun. while i'm still learning a lot (who isn't?), my skills have increased the effectiveness and efficiency of my work enormously.
