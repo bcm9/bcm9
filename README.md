@@ -1,7 +1,7 @@
 ### hello! ben here :wave:	
 
-i got big into programming during my phd, where i used matlab to edit and build psychoacoustic experiments, statistically analyse data, and visualise data. i did a postdoc in which i continued to use these skills regularly for research tasks and as improving productivity, automating data processing and building software interfaces for non-programmer colleagues. i began using python much more regularly too. i currently work as an analyst, where i use my skills to collect, clean and analyse diverse datasets. :chart:	:bar_chart:	:chart_with_upwards_trend:	
+I got big into programming during my PhD, where I used MATLAB to edit and build psychoacoustic experiments, statistically analyze data, and visualize data. I did a postdoc in which I continued to use these skills regularly for research tasks, improving productivity, automating data processing, and building software interfaces for non-programmer colleagues. I began using Python much more regularly too. I currently work as an analyst, where I use my skills to collect, clean, and analyze diverse datasets. :chart: :bar_chart: :chart_with_upwards_trend:
 
-what i have uploaded here is mainly pieces of code i've used during my work which i want to reuse again down the line, and work i've produced in my spare time for fun. :nerd_face: 
+What I have uploaded here are mainly pieces of code I've written at work, which I want to reuse again down the line, and work I've produced in my spare time for fun. :nerd_face:
 
-i find programming satisfying, rewarding and fun. while i'm still learning a lot (who isn't?), my skills have increased the effectiveness and efficiency of my work enormously.	:+1:
+I find programming satisfying, rewarding, and fun. While I'm still learning a lot (who isn't?), my skills have increased the effectiveness and efficiency of my work enormously. :+1:
